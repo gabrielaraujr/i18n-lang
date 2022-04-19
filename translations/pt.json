@@ -1,0 +1,16 @@
+{
+  "pt": {
+    "quem": "Quem somos",
+    "sobre": "Sobre a loja",
+    "parceiros": "Parceiros",
+    "produtos": "Conheça nossos produtos",
+    "politica": "Política de privacidade",
+    "ajuda": "Ajuda e Suporte",
+    "interpolacao": "Teste de interpolação: %{value}",
+    "pluralizacao": {
+      "zero": "Nenhuma palavra",
+      "one": "Uma palavra",
+      "other": "%{count} palavras"
+    }
+  }
+}

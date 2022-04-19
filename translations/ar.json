@@ -1,0 +1,16 @@
+{
+  "ar": {
+    "quem": "من نحن",
+    "sobre": "عن المتجر",
+    "parceiros": "تطبيقي",
+    "produtos": "طبيقي المطبق",
+    "politica": "أهلاً بك في مكاني الصغير على النت",
+    "ajuda": "مساعدة و دعم",
+    "interpolacao": "%{value} أهلاً بك في النت",
+    "pluralizacao": {
+      "zero": "أي كلمة",
+      "one": "كلمة",
+      "other": "كلمات %{count}"
+    }
+  }
+}
